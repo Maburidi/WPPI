@@ -31,6 +31,7 @@ Four new files:
 
 
 [[3]]  Pre-processing 2: 
+       
        Inputs: "edges.csv" and "edges_2.csv"   (two csv files from phase 1)
        outputs: weighted_edges.txt   
        Command line: 
@@ -39,6 +40,7 @@ Four new files:
 
 
 [[4]] Phase II: Search for new signaling pathways
+     
      - Inputs:  weighted_edges.txt 
      - Outputs: Figures of pathways
      - Command line:
