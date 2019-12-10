@@ -5,6 +5,21 @@
 ## This project is to weight a protein protein interaction network and to identify and predict new signaling pathways  
 
 
+# Abstract
+In molecular biology, cellular mechanisms are produced by group of interacting proteins. Huge amount
+of these groups are still not discovered. In this study, we present a novel learning-based framework for
+the problem of identifying and predicting new signaling pathways in human protein-protein interaction
+networks. Our approach consists two phases, in rst phase, we weight the edges between the interacting
+proteins according to existing biological knowledge and previously discovered pathways. In the second
+phase, we searched the PPI graph for signaling pathways that have the minimum weights. Using this
+strategy, we discovered pathways that are identied with similar biological processes and functions. Fur-
+ther, we used it for reconstructing known signaling pathways. We concluded that this weighting approach
+is ecient and can be used for reconstructing unknown signaling pathways and identifying functionally
+enriched paths, and assign putative roles to uncharacterised proteins.
+
+
+
+
 Four new files: 
 
 [[1]] Pre-processing 1:  Clean, pre-process origional data            
