@@ -1,3 +1,12 @@
+
+
+# A Supervised Learning Approach For Predicting Signaling Pathways in Protein Protein Interaction Networks
+
+## This project is to weight a protein protein interaction network and to identify and predict new signaling pathways  
+
+
+Four new files: 
+
 [[1]] Pre-processing 1:  Clean, pre-process origional data            
       Inputs: PPI file, dowloaded from IntAct website 
       Outputs: Clean graph data (edges)  interacting_gene_pairs.txt
